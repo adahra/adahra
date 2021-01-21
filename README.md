@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**adahra/adahra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a python, javascript, java and dart dev. I know Django, React and Flutter framework. And i use Arch BTW**
 
 Here are some ideas to get you started:
 
