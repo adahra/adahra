@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **adahra/adahra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: adnantoa@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have two daughter
--->
 
 ## GitHub Stats
 
