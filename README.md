@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/adahra/adahra">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adahra&theme=gotham" alt="Adahra's GitHub Stats" />
 </a>
+
+![Snake animation](github-contribution-grid-snake.svg)
