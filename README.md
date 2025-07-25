@@ -24,4 +24,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adahra&theme=gotham" alt="Adahra's GitHub Stats" />
 </a>
 
-![Snake animation](https://github.com/adahra/adahra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](github-contribution-grid-snake.svg)
