@@ -19,6 +19,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adahra&hide=html,css&langs_count=10&layout=compact&theme=gotham&show_icons=true&line_height=27" />
 </a>
 
+<a href="https://github.como/adahra/adahra"><img src="https://nirzak-streak-stats.vercel.app?user=adahra&theme=blue-green&hide_border=true&locale=id&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+
 
 <a href="https://github.com/adahra/adahra">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adahra&theme=gotham" alt="Adahra's GitHub Stats" />
